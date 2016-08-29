@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FriendsApp</string>
+    <string name="main_search_title">Search</string>
+    <string name="main_add_title">add</string>
+    <string name="main_delete_title">delete</string>
+    <string name="friend_name_search">Friend Name</string>
+    <string name="search_button">Search</string>
+</resources>
